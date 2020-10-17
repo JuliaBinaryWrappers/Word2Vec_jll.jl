@@ -1,0 +1,99 @@
+[[Word2Vec]]
+arch = "aarch64"
+git-tree-sha1 = "74fb8ceb92c8b6ae9bb1ca8cd6e18a14a2289ce9"
+libc = "glibc"
+os = "linux"
+
+    [[Word2Vec.download]]
+    sha256 = "31b124642eb9876d924b6f59d6fa0e0c2a6c54d7ddd7747aa0652b242b582d88"
+    url = "https://github.com/JuliaBinaryWrappers/Word2Vec_jll.jl/releases/download/Word2Vec-v0.1.0+0/Word2Vec.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[Word2Vec]]
+arch = "aarch64"
+git-tree-sha1 = "395dc0de3f25147aa224be3a4d2a59b3c6ddb531"
+libc = "musl"
+os = "linux"
+
+    [[Word2Vec.download]]
+    sha256 = "7a23cfc904b3f354b673a6f85a8af301d5846734b0b31cae2ecc268bbfc0046e"
+    url = "https://github.com/JuliaBinaryWrappers/Word2Vec_jll.jl/releases/download/Word2Vec-v0.1.0+0/Word2Vec.v0.1.0.aarch64-linux-musl.tar.gz"
+[[Word2Vec]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cdc7db5b253f8fd02af08fb0c3e5768c036944fd"
+libc = "glibc"
+os = "linux"
+
+    [[Word2Vec.download]]
+    sha256 = "27bf47298ebf9267537af5c1e285bba534710bb4e08080ceae2541747bf1525b"
+    url = "https://github.com/JuliaBinaryWrappers/Word2Vec_jll.jl/releases/download/Word2Vec-v0.1.0+0/Word2Vec.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[Word2Vec]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ceff7c5ecaa59513c32f535202dab9b299362450"
+libc = "musl"
+os = "linux"
+
+    [[Word2Vec.download]]
+    sha256 = "ffa702aa14437a31ecbd0ebd74cb5ebbab015e9f4973023cc5aa17def5673896"
+    url = "https://github.com/JuliaBinaryWrappers/Word2Vec_jll.jl/releases/download/Word2Vec-v0.1.0+0/Word2Vec.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[Word2Vec]]
+arch = "i686"
+git-tree-sha1 = "45314cfa89ee1b8c343f74eb78d54fad4b79b61f"
+libc = "glibc"
+os = "linux"
+
+    [[Word2Vec.download]]
+    sha256 = "41c5015fa35d012a40f758b7223b35159e958ce482dd85c1325e3268590dd3ef"
+    url = "https://github.com/JuliaBinaryWrappers/Word2Vec_jll.jl/releases/download/Word2Vec-v0.1.0+0/Word2Vec.v0.1.0.i686-linux-gnu.tar.gz"
+[[Word2Vec]]
+arch = "i686"
+git-tree-sha1 = "e316b91d7f9c483fb22b5344fcd4b48a205c45cd"
+libc = "musl"
+os = "linux"
+
+    [[Word2Vec.download]]
+    sha256 = "887fe9c64c86afc2c00b1d362bc14ec1238813538c2674716454477eaba24d5f"
+    url = "https://github.com/JuliaBinaryWrappers/Word2Vec_jll.jl/releases/download/Word2Vec-v0.1.0+0/Word2Vec.v0.1.0.i686-linux-musl.tar.gz"
+[[Word2Vec]]
+arch = "powerpc64le"
+git-tree-sha1 = "9e1ddfac619f0d02919f2760ada991d674395c82"
+libc = "glibc"
+os = "linux"
+
+    [[Word2Vec.download]]
+    sha256 = "c76d4d711383151afd8c84e4023b390d4b1b410c6d8b929c181b9fd661bd7879"
+    url = "https://github.com/JuliaBinaryWrappers/Word2Vec_jll.jl/releases/download/Word2Vec-v0.1.0+0/Word2Vec.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[Word2Vec]]
+arch = "x86_64"
+git-tree-sha1 = "c5a936c6c780f1e9b521a5951df2ca363dcfb59f"
+os = "macos"
+
+    [[Word2Vec.download]]
+    sha256 = "d679ca46c77ea11576ad495f03c6f79f1f6b4dffbdcb4463c64ab9330d03a888"
+    url = "https://github.com/JuliaBinaryWrappers/Word2Vec_jll.jl/releases/download/Word2Vec-v0.1.0+0/Word2Vec.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[Word2Vec]]
+arch = "x86_64"
+git-tree-sha1 = "0c86f7feb8f6b4ab5f9fb793f1fde1278e3a6021"
+libc = "glibc"
+os = "linux"
+
+    [[Word2Vec.download]]
+    sha256 = "504a8ec8468682602d6d41a2deec7ef68f0201ac57a19d0e7ed48af994f7e12f"
+    url = "https://github.com/JuliaBinaryWrappers/Word2Vec_jll.jl/releases/download/Word2Vec-v0.1.0+0/Word2Vec.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[Word2Vec]]
+arch = "x86_64"
+git-tree-sha1 = "027f8cfbdd160058b17f0b47cc40ca3d8db871ff"
+libc = "musl"
+os = "linux"
+
+    [[Word2Vec.download]]
+    sha256 = "dc999b28c61b3b7bf48db4c8bc4ec982995635d97a921211583f07c21445cf37"
+    url = "https://github.com/JuliaBinaryWrappers/Word2Vec_jll.jl/releases/download/Word2Vec-v0.1.0+0/Word2Vec.v0.1.0.x86_64-linux-musl.tar.gz"
+[[Word2Vec]]
+arch = "x86_64"
+git-tree-sha1 = "3168ef0763a8af42667cd40e875d06e2037aab8d"
+os = "freebsd"
+
+    [[Word2Vec.download]]
+    sha256 = "1764b80b682dabcf5917c2d6c26b918f771f8b85037c612e97993ee42c87790e"
+    url = "https://github.com/JuliaBinaryWrappers/Word2Vec_jll.jl/releases/download/Word2Vec-v0.1.0+0/Word2Vec.v0.1.0.x86_64-unknown-freebsd.tar.gz"
